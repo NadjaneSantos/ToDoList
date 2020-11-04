@@ -1,7 +1,5 @@
-<h1 align="center">ToDoList Diretoria</h1>
-
 <h1 align="center">
-    <a href="https://">🚧📋  ToDoList</a>
+    <a href="https://">📋 ToDoList Diretoria 📋</a>
 </h1>
 <p align="center">Gerenciador de tarefas. Mais organização e produtividade para você.</p>
 
