@@ -20,12 +20,12 @@
 ### Features
 
 - Cadastro
-	- [x] Tarefas
+	- [x] Tarefa
 	- [x] Categoria
 	- [x] Status
 	- [x] Nível Prioridade
 - Busca
-	- [x] Tarefas
+	- [x] Tarefa
 	- [x] Categoria
 	- [x] Status
 	- [x] Nível Prioridade 
