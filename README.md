@@ -81,8 +81,9 @@ $ npm run dev:server
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- PHP
+- PHP {Symfony}
 - MySQL
+- JavaScript {React}
 
 ---
 
