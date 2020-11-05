@@ -25,8 +25,6 @@
 - Busca
 	- [x] Tarefa
 	- [x] Categoria
-	- [x] Status
-	- [x] Nível Prioridade
 	- [x] Badges
 
 ## 💻 Sobre o Projeto
