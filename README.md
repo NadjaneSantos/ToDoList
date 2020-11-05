@@ -73,13 +73,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 👨‍💻 Contribuidores
 
-Antonio Alves Neto
+<table>
+  <tr>
+	<td align="center"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/5851608?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Antonio Alves Neto</b></sub></a><br /></a><br>@Antonionetto20</br></td>
+	<td align="center"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/25637695?s=460&u=31b8338ee6fd47568b789b81d7e0ccd7d500a4ea&v=4" width="100px;" alt=""/><br /><sub><b>Amanda Carvalho de Andrade</b></sub></a><br /></a><br>@Amandaca24</br></td>
+	<td align="center"><img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/6334338?s=460&u=b9f4588d7547a6de36216f4e9c85c5fdd2069c76&v=4" width="100px;" alt=""/><br /><sub><b>Jose Luiz Melo de Carvalho</b></sub></a><br /></a><br>@ZekaCarvalho</br></td>
+	<td align="center"><img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/45887415?s=400&u=fd5f65a94e7c0ce7b5f223a080f2c7aec89fe267&v=4" width="100px;" alt=""/><br /><sub><b>Nadjane Ferreira Santos</b></sub></a><br /></a><br>@NadjaneSantos</br></td>
+  </tr>
+</table>
 
-Amanda
-
-José Luiz 
-
-Nadjane Ferreira Santos
 
 ---
 
@@ -91,10 +93,10 @@ Este projeto esta sob a licença **********
 Desenvolvido pela ⭐ Diretoria ⭐.
 Dúvidas? Entre em contato conosco:
 
-✉️ aan@cin.ufpe.com
-✉️ ac@cin.ufpe.com
-✉️ jl@cin.ufpe.com
-✉️ nfs3@cin.ufpe.com
+✉️ aan3@cin.ufpe.br
+✉️ aca8@cin.ufpe.br
+✉️ jlmc@cin.ufpe.br
+✉️ nfs3@cin.ufpe.br
 
 ---
 
