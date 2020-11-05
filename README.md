@@ -94,8 +94,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Este projeto esta sob a licença [MIT](./LICENSE)
+Este projeto esta sob a licença:
 
+![Badge](https://img.shields.io/github/license/NadjaneSantos/ToDoList)
+
+---
 
 Desenvolvido pela ⭐ Diretoria ⭐.
 Dúvidas? Entre em contato conosco:
