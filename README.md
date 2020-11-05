@@ -22,17 +22,16 @@
 - Cadastro
 	- [x] Tarefa
 	- [x] Categoria
-	- [x] Status
-	- [x] Nível Prioridade
 - Busca
 	- [x] Tarefa
 	- [x] Categoria
 	- [x] Status
-	- [x] Nível Prioridade 
+	- [x] Nível Prioridade
+	- [x] Badges
 
 ## 💻 Sobre o Projeto
 
-📋 ToDoList Diretoria -  É uma aplicação de gerenciamento de listas com todas as tarefas que precisam ser feitas.
+📋 ToDoList Diretoria -  É uma aplicação de gerenciamento tarefas dinâmica e diferenciada em que o usuário pode rastrear as atividades do cotidiano e ganhar badges à medida em que vai realizando-as. De forma divertida e intuitiva, o usuário pode listar tudo aquilo que ele deseja lembrar e/ou fazer ao longo do dia/semana/mês. A cada tarefa feita, de acordo com categoria e prioridade, o usuário ganha pontos e, ao finalizá-la, recebe um badge que pode ser compartilhado pelas redes sociais para todos os amigos celebrarem juntos! 
 
 Desafio desenvolvido para a disciplina de Fundamentos de Metodologias Ágeis do curso de Pós Graduação Lato Sensu Residência em Desenvolvimento de Software do Centro de Informátida da Universidade Federal de Pernambuco, sob a direção do professor Vinícios Cardoso Garcia.
 
@@ -43,6 +42,10 @@ Desafio desenvolvido para a disciplina de Fundamentos de Metodologias Ágeis do 
 - [x] O usuário pode se cadastrar na plataforma Web;
 - [x] O usuário tem acesso a aplicação onde poderá:
 	- [x] Cadastrar tarefa;
+	- [x] Cadastrar categoria;
+	- [x] Definir categorias;
+	- [x] Definir prioridades;
+	- [x] Definir metas.
 - [x] O usuário será recompensado quando atingir as metas;
 	
 ---
