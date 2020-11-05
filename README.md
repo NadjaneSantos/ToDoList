@@ -19,9 +19,16 @@
 
 ### Features
 
-- [x] Cadastro de Tarefas
-- [x] Cadastro de Categoria
-- [ ] Cadastro de Status
+- Cadastro
+	- [x] Tarefas
+	- [x] Categoria
+	- [x] Status
+	- [x] Nível Prioridade
+- Busca
+	- [x] Tarefas
+	- [x] Categoria
+	- [x] Status
+	- [x] Nível Prioridade 
 
 ## 💻 Sobre o Projeto
 
