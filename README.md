@@ -46,16 +46,26 @@ O layout da aplicação está disponível no ******:
 
 ---
 
-## 🚀 Como executar o projeto
+## ▶️ Como executar o projeto
 
-Este projeto é divido em duas partes:
-1. Backend (pasta server) 
-2. Frontend (pasta web)
+#### 🌐 Rodando a aplicação web
 
-#### 🎲 Rodando o Backend (servidor)
+# Clone o repositório
+$ git clone <https://github.com/NadjaneSantos/ToDoList>
 
+# Acesse a pasta do projeto no terminal/cmd
+$ cd ToDoList
 
-#### 🧭 Rodando a aplicação web (Frontend)
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
+# O servidor inciará na porta:8000 - acesse <http://localhost:8000> 
 
 ---
 
@@ -63,11 +73,8 @@ Este projeto é divido em duas partes:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  
-
-#### **Utilitários**
-
--   Protótipo:  
+- PHP
+- MySQL
 
 ---
 
