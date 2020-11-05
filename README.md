@@ -94,7 +94,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📝 Licença
 
-Este projeto esta sob a licença **********
+Este projeto esta sob a licença [MIT](./LICENSE)
 
 
 Desenvolvido pela ⭐ Diretoria ⭐.
@@ -109,7 +109,7 @@ Dúvidas? Entre em contato conosco:
 
 ##  Versões do README
 
-
+[Português 🇧🇷](./README.md)
 
 
 
