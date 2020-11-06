@@ -54,6 +54,10 @@ O layout da aplicação está disponível no ******:
 
 ---
 
+## 📇 Backlog
+
+[Backlog do projeto](https://github.com/NadjaneSantos/ToDoList/projects/2)
+
 ## ▶️ Como executar o projeto
 
 #### 🌐 Rodando a aplicação web
