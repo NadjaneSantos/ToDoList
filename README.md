@@ -51,7 +51,9 @@ Desafio desenvolvido para a disciplina de Fundamentos de Metodologias Ágeis do 
 
 ## 🎨 Layout
 
-O layout da aplicação está disponível no ******:
+O layout da aplicação está disponível em:
+
+https://img.shields.io/endpoint?label=MVP&logo=ToDoList&url=https%3A%2F%2Fgithub.com%2FNadjaneSantos%2FToDoList
 
 ---
 
