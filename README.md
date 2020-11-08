@@ -53,7 +53,7 @@ Desafio desenvolvido para a disciplina de Fundamentos de Metodologias Ágeis do 
 
 O layout da aplicação está disponível em:
 
-![Badge](https://img.shields.io/endpoint?label=MVP&url=https%3A%2F%2Fgithub.com%2FNadjaneSantos%2FToDoList%2Fblob%2Fmain%2FTelas%2FTodoList.pdf)
+https://github.com/NadjaneSantos/ToDoList/tree/main/Telas
 
 ---
 
